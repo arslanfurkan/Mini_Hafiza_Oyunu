@@ -1,0 +1,21 @@
+C:\Users\furka\source\repos\HafızaOyunu163301012\HafızaOyunu163301012\bin\Debug\HafızaOyunu163301012.exe.config
+C:\Users\furka\source\repos\HafızaOyunu163301012\HafızaOyunu163301012\bin\Debug\HafızaOyunu163301012.exe
+C:\Users\furka\source\repos\HafızaOyunu163301012\HafızaOyunu163301012\bin\Debug\HafızaOyunu163301012.pdb
+C:\Users\furka\source\repos\HafızaOyunu163301012\HafızaOyunu163301012\obj\Debug\HafızaOyunu163301012.csprojAssemblyReference.cache
+C:\Users\furka\source\repos\HafızaOyunu163301012\HafızaOyunu163301012\obj\Debug\HafızaOyunu163301012.Form1.resources
+C:\Users\furka\source\repos\HafızaOyunu163301012\HafızaOyunu163301012\obj\Debug\HafızaOyunu163301012.Properties.Resources.resources
+C:\Users\furka\source\repos\HafızaOyunu163301012\HafızaOyunu163301012\obj\Debug\HafızaOyunu163301012.csproj.GenerateResource.cache
+C:\Users\furka\source\repos\HafızaOyunu163301012\HafızaOyunu163301012\obj\Debug\HafızaOyunu163301012.csproj.CoreCompileInputs.cache
+C:\Users\furka\source\repos\HafızaOyunu163301012\HafızaOyunu163301012\obj\Debug\HafızaOyunu163301012.exe
+C:\Users\furka\source\repos\HafızaOyunu163301012\HafızaOyunu163301012\obj\Debug\HafızaOyunu163301012.pdb
+C:\Users\furka\source\repos\2-PROGLAMA DİLİ ÖDEVLERİ\HafızaOyunu163301012\HafızaOyunu163301012\bin\Debug\HafızaOyunu163301012.exe.config
+C:\Users\furka\source\repos\2-PROGLAMA DİLİ ÖDEVLERİ\HafızaOyunu163301012\HafızaOyunu163301012\bin\Debug\HafızaOyunu163301012.exe
+C:\Users\furka\source\repos\2-PROGLAMA DİLİ ÖDEVLERİ\HafızaOyunu163301012\HafızaOyunu163301012\bin\Debug\HafızaOyunu163301012.pdb
+C:\Users\furka\source\repos\2-PROGLAMA DİLİ ÖDEVLERİ\HafızaOyunu163301012\HafızaOyunu163301012\obj\Debug\HafızaOyunu163301012.csprojAssemblyReference.cache
+C:\Users\furka\source\repos\2-PROGLAMA DİLİ ÖDEVLERİ\HafızaOyunu163301012\HafızaOyunu163301012\obj\Debug\HafızaOyunu163301012.Properties.Resources.resources
+C:\Users\furka\source\repos\2-PROGLAMA DİLİ ÖDEVLERİ\HafızaOyunu163301012\HafızaOyunu163301012\obj\Debug\HafızaOyunu163301012.csproj.GenerateResource.cache
+C:\Users\furka\source\repos\2-PROGLAMA DİLİ ÖDEVLERİ\HafızaOyunu163301012\HafızaOyunu163301012\obj\Debug\HafızaOyunu163301012.csproj.CoreCompileInputs.cache
+C:\Users\furka\source\repos\2-PROGLAMA DİLİ ÖDEVLERİ\HafızaOyunu163301012\HafızaOyunu163301012\obj\Debug\HafızaOyunu163301012.exe
+C:\Users\furka\source\repos\2-PROGLAMA DİLİ ÖDEVLERİ\HafızaOyunu163301012\HafızaOyunu163301012\obj\Debug\HafızaOyunu163301012.pdb
+C:\Users\furka\source\repos\2-PROGLAMA DİLİ ÖDEVLERİ\HafızaOyunu163301012\HafızaOyunu163301012\obj\Debug\HafızaOyunu163301012.FormAna.resources
+C:\Users\furka\source\repos\2-PROGLAMA DİLİ ÖDEVLERİ\HafızaOyunu163301012\HafızaOyunu163301012\obj\Debug\HafızaOyunu163301012.FormOynanis.resources
